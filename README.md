@@ -1,2 +1,5 @@
 # django-calculator-microservice
-Simple calculator multiply and divide functions to be accessed as web services using django
+Simple calculator performing basic arithmetic 
+add,divide,multiply and divide functions--- to be accessed as web services using django
+
+
